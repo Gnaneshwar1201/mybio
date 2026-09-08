@@ -1,28 +1,36 @@
-# mybio
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+New GitHub Profile README - Copy This
 
+# Hi, I'm Gnaneshwar Shaga 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sgnaneshwar_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gnaneshwar-shaga-346391362) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shagagnaneshwar291@gmail.com) 
+### Frontend Developer | B.Tech CSE (IoT) - 2026
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Gnaneshwar1201 &theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Gnaneshwar1201 &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gnaneshwar1201 &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+📍 Hyderabad, India | 🏢 Sri Indu College of Engineering & Technology
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gnaneshwar1201 &theme=default&no-frame=false&no-bg=false&margin-w=4)
+I'm a Computer Science (IoT) student passionate about building clean, responsive websites.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+### 🚀 Skills I Learned
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gnaneshwar1201 &limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Web Development:** HTML, CSS, JavaScript, jQuery, React.js, Bootstrap
+**Programming:** C, C++
+**Productivity Tools:** Microsoft Word, Excel, PowerPoint
+**Tools:** Git, GitHub, VS Code
 
----
-[![](https://komarev.com/ghpvc/?username=Gnaneshwar1201 &icon=0&color=0)](https://visitcount.itsvg.in)
+### 💻 Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### 1. AI Resume Screening & Job Matching System
+A web application for resume screening and job matching with recruiter and candidate dashboards.
+- Built responsive UI with HTML, CSS, JavaScript, React.js, Bootstrap
+- Features: Resume Upload, Dashboard, Job Matching UI
+- 🔗 Repo: ai-resume-screening-job-matching-system
+
+#### 2. Portfolio Website [Coming Soon]
+Personal portfolio built with HTML, CSS, JavaScript, jQuery
+- Fully responsive, clean UI
+
+#### 3. To-Do List App [Coming Soon]
+Task manager built with React.js and jQuery
+
+### 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/gnaneshwar-shaga-346391362
+- Email: shagagnaneshwar2191@gmail.com
+- Location: Andhra Pradesh / Hyderabad
